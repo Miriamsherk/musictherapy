@@ -322,7 +322,7 @@ input:focus, textarea:focus, *:required:focus{border-color:#562351;}
 #footer nav a{color:inherit;}
 #footer nav li:first-child a, #footer nav a:hover{color:#9E4195;}
 
-#footer .faico a{color:inherit; background-color:#141414;}
+#footer .faico a{color:inherit;}
 #footer .faico a:hover{color:#FFFFFF;}
 #footer .faicon-dribble:hover{background-color:#EA4C89;}
 #footer .faicon-facebook:hover{background-color:#3B5998;}
@@ -439,4 +439,8 @@ table a, #comments a{background-color:inherit;}
 
 .fa-pagelines {
 	color: green;
+}
+
+.width-50 {
+	max-width: 50%;
 }
