@@ -24,7 +24,7 @@ File: Layout CSS
 
 /* Top Bar
 --------------------------------------------------------------------------------------------------------------- */
-#topbar{padding:15px 0; font-size:.8rem; text-transform:uppercase;}
+#topbar{padding:15px 0; font-size:.8rem;}
 
 #topbar *{margin:0; padding:0; list-style:none;}
 #topbar ul li{display:inline-block; margin-right:10px; padding-right:15px; border-right:1px solid;}
@@ -39,7 +39,7 @@ File: Layout CSS
 #header #logo *{margin:0; padding:0; line-height:1;}
 #header #logo h1{margin-top:8px; font-size:26px; letter-spacing:3px;}
 
-#header #quickinfo{font-size:.8rem; text-transform:uppercase;}
+#header #quickinfo{font-size:.8rem;}
 #header #quickinfo li{margin-right:50px;}
 #header #quickinfo li:last-child{margin-right:0;}
 #header #quickinfo strong{display:block; margin:0 0 -5px 0; padding:0; font-size:.9rem;}
