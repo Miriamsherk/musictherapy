@@ -400,6 +400,9 @@ table a, #comments a{background-color:inherit;}
 
 	#copyright{}
 	#copyright p:first-of-type{margin-bottom:10px;}
+	.nav-logo {
+		max-width: 80% !important;
+	}
 }
 
 
