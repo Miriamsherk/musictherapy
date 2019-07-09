@@ -376,12 +376,28 @@ table a, #comments a{background-color:inherit;}
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (min-width:978px){
 	.hoc{max-width:978px;}
+	.contact-logo {
+		display: block;
+	}
+
+	.contact-logo-xs {
+		display: none;
+	}
 }
 
 
 /* Mobile Devices
 --------------------------------------------------------------------------------------------------------------- */
 @media screen and (max-width:900px){
+	.contact-logo {
+		display: none !important;
+	}
+
+	.contact-logo-xs {
+		display: block !important;
+		margin: 50px auto 0;
+	}
+
 	.hoc{max-width:90%;}
 
 	#header{}
@@ -468,6 +484,8 @@ table a, #comments a{background-color:inherit;}
 .nav-logo {
 	max-width: 30%;
 }
+
+
 
 
 
