@@ -34,7 +34,7 @@ File: Layout CSS
 
 /* Header
 --------------------------------------------------------------------------------------------------------------- */
-#header{padding:50px 0;}
+#header{padding:40px 0;}
 
 #header #logo *{margin:0; padding:0; line-height:1;}
 #header #logo h1{margin-top:8px; font-size:26px; letter-spacing:3px;}
@@ -259,7 +259,7 @@ td{border-width:0 1px;}
 /* Colours
 --------------------------------------------------------------------------------------------------------------- */
 body{color:#A8A7A6; background-color:#191919;}
-a{color:#008000;}
+a{color:#31612d;}
 a:active, a:focus{background:transparent;}/* IE10 + 11 Bugfix - prevents grey background */
 hr, .borderedbox{border-color:#F4F4F4;}
 label span{color:#FF0000; background-color:inherit;}
@@ -452,3 +452,20 @@ table a, #comments a{background-color:inherit;}
 .margin-right-100 {
 	margin-right: 100px;
 }
+
+.gray {
+	color: #474747;
+}
+
+.contact-logo {
+	max-width: 40%;
+    margin-top: -50px;
+}
+
+.nav-logo {
+	max-width: 30%;
+}
+
+
+
+
