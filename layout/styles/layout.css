@@ -464,6 +464,11 @@ table a, #comments a{background-color:inherit;}
 	max-width: 50%;
 }
 
+.margin-left-rates {
+	margin-left: 20px; 
+	font-size: 13px;
+}
+
 .margin-left-40 {
 	margin-left: 40px; 
 }
@@ -480,9 +485,3 @@ table a, #comments a{background-color:inherit;}
 	max-width: 40%;
     margin-top: -50px;
 }
-
-
-
-
-
-
